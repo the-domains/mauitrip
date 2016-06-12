@@ -1,14 +1,14 @@
-layout_spectrum: 0.28641166305169463
-typography_spectrum: 0.19562150770798326
 color:
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
   brandStrength: 0.06549298926256597
   lightness: 0.8515575609635562
-  saturation: 0.41477637318894267
   rhythmicContrast: 0.43648708797991276
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+  saturation: 0.41477637318894267
+layout_spectrum: 0.513158
 name: mauitrip
+typography_spectrum: 0.19562150770798326
