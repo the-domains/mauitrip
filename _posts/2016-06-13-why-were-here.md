@@ -1,15 +1,20 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: Why We’re Here
-dateModified: '2016-06-13T03:09:39.361Z'
-datePublished: '2016-06-13T03:10:32.607Z'
+datePublished: '2016-06-13T03:14:53.015Z'
+dateModified: '2016-06-13T03:13:08.186Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-13-why-were-here.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: why-were-here/index.html
+_type: WebPage
 
 ---
 Why We're Here
