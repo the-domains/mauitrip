@@ -24,5 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - id: 'http://www.paiabaycam.com/'
+    url: 'http://www.paiabaycam.com/'
+    name: Paia Bay Cam
+    type: external
 favicon: null
 purpose: []
