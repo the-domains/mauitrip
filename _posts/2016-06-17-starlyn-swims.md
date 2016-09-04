@@ -1,5 +1,5 @@
 ---
-dateModified: '2016-06-17T19:59:12.677Z'
+dateModified: '2016-09-01T17:36:23.757Z'
 description: Uploaded by Jordy Webb on 2016-06-17.
 inLanguage: en
 isBasedOnUrl: 'https://youtu.be/6g97JuzWZyk'
@@ -21,9 +21,9 @@ publisher:
   url: 'https://www.youtube.com/'
 title: Starlyn Swims!
 author: []
-datePublished: '2016-06-17T20:25:28.968Z'
-starred: false
+datePublished: '2016-09-01T17:36:24.174Z'
 sourcePath: _posts/2016-06-17-starlyn-swims.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
