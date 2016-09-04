@@ -1,11 +1,11 @@
 ---
 title: ''
-datePublished: '2016-06-13T06:45:52.560Z'
-dateModified: '2016-06-13T06:45:28.796Z'
+datePublished: '2016-09-01T17:36:24.171Z'
+dateModified: '2016-09-01T17:36:23.757Z'
 author: []
 description: Awesome art
-starred: false
 sourcePath: _posts/2016-06-13-awesome-art.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
