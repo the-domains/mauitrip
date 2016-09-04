@@ -1,11 +1,11 @@
 ---
 title: ''
-datePublished: '2016-06-13T06:51:48.593Z'
-dateModified: '2016-06-13T06:51:43.840Z'
+datePublished: '2016-09-01T17:36:24.181Z'
+dateModified: '2016-09-01T17:36:23.757Z'
 author: []
 description: Star and Dad Building a Sand Castle
-starred: false
 sourcePath: _posts/2016-06-13-star-and-dad-building-a-sand-castle.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
